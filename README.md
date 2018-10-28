@@ -12,7 +12,7 @@ Used:
 
 Using:
 ```
-python2.7 main.py [sorttype=quicksort|shaker_sort length]
+python2.7 main.py [sorttype=quicksort|shaker_sort] length
   
   sorttype: quicksort (default)
             shaker_sort
