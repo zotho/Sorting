@@ -5,12 +5,12 @@ Sorting arrays in window
 ### Video:
 [![Shaker sort / Шейкерная сортировка](https://img.youtube.com/vi/ahi0pDTAjps/0.jpg)](https://www.youtube.com/watch?v=ahi0pDTAjps)
 
-Used:
+### Used:
 - Python2.7
 - Tkinter
 
 
-Using:
+### Using:
 ```
 python2.7 main.py [sorttype=quicksort|shaker_sort] length
   
@@ -21,7 +21,7 @@ python2.7 main.py [sorttype=quicksort|shaker_sort] length
             10 ..300  for shaker_sort
 ```
 
-In program:
+### In program:
 * q - exit
 * w - shuffle array
 * e - sort array
