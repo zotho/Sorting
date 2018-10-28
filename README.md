@@ -1,7 +1,8 @@
 # Sorting
 
-## Sorting arrays in window
+Sorting arrays in window
 
+### Video:
 [![Shaker sort / Шейкерная сортировка](https://img.youtube.com/vi/ahi0pDTAjps/0.jpg)](https://www.youtube.com/watch?v=ahi0pDTAjps)
 
 Used:
