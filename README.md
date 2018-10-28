@@ -2,10 +2,14 @@
 
 ## Sorting arrays in window
 
+[![Shaker sort / Шейкерная сортировка](https://img.youtube.com/vi/ahi0pDTAjps/0.jpg)](https://www.youtube.com/watch?v=ahi0pDTAjps)
+
 Used:
 - Python2.7
 - Tkinter
 
+
+Using:
 ```
 python2.7 main.py [sorttype=quicksort|shaker_sort length]
   
