@@ -126,7 +126,7 @@ def shaker_sort(a):
     """
     Sort a sequence using the shaker-sort algorithm.
 
-    :param items: the sequence to be sorted
+    :param a: the sequence to be sorted
     :return: out, sorted steps
     """
     out = []
